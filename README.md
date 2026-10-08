@@ -1,5 +1,5 @@
 **中文** ｜ [English](README.en.md) ｜ [日本語](README.ja.md)
-## 注：下载请去Releases下载而不是克隆项目
+## 注：下载请去Releases下载，而不是克隆项目
 
 # MikuMikuToon
 
