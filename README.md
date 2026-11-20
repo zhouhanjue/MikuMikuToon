@@ -1,5 +1,6 @@
 **中文** ｜ [English](README.en.md) ｜ [日本語](README.ja.md)
-## 注：下载请去Releases下载，而不是克隆项目
+## 注：下载请去blender下载，而不是克隆项目
+https://extensions.blender.org/add-ons/miku-miku-toon/
 
 # MikuMikuToon
 
