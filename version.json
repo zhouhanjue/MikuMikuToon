@@ -1,6 +1,1 @@
-{
-  "min_version": "4.1.2",
-  "latest": "4.1.2",
-  "block": true,
-  "message": "MikuMikuToon 已更新到 4.1.2，请升级后再使用"
-}
+{"min_version": "4.1.3", "latest": "4.1.3", "force": true, "block": true, "message": "MikuMikuToon 已更新到 4.1.3，请升级后再使用"}
